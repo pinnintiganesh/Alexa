@@ -1,3 +1,5 @@
+#This Alexa can do things like telling time , playing any song the user says.
+
 import speech_recognition as sr
 import pyttsx3
 import pywhatkit
